@@ -1,0 +1,14 @@
+neo4j>=4.0,<4.3
+imdbpy==2020.9.25
+nose==1.3.7
+cinemagoerng>=0.4
+imdbinfo>=0.5
+imdbpy>=2020.9.25
+neo4j==4.2.1
+pandas
+numpy
+matplotlib
+networkx
+scikit-learn
+ipykernel
+tqdm
