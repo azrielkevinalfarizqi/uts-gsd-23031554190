@@ -7,9 +7,8 @@ Proyek ini membangun graf interaksi pengunjung dan produk dari dataset Retail Ro
 | **Matakuliah** | Graf Sains Data (3 SKS) |
 | **Program Studi** | S1 Sains Data, FMIPA, Universitas Negeri Surabaya |
 | **Semester** | Gasal 2026/2027 |
-| **Materi** | Python Driver untuk Neo4j dan Rekomendasi |
-| **Sifat** | Individu |
-| **Nama / NIM** | `[isi nama]` / `[isi NIM]` |
+| **Nama** | Azriel Kevin Alfzrizqi |
+| **NIM** | 23031554190 |
 
 ## Ringkasan Hasil
 
@@ -281,5 +280,5 @@ Arah perbaikan yang masuk akal: menaikkan jumlah tetangga dan User kandidat, men
 
 ## Tautan
 
-- Repositori GitHub: `[isi URL]`
+- Repositori GitHub: `https://github.com/azrielkevinalfarizqi/uts-gsd-23031554190`
 - Dataset: https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset (sumber data: Roman Zykov)
